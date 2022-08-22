@@ -10,5 +10,5 @@ Overrides the Racelogic with Alerts for:
 ## Preview
 ![Preview](https://i.imgur.com/ZnrnXmn.png)
 
-Camera Shake must be turned off!
-Works with Audi GT3 Evo II
+ - Camera Shake must be turned off!
+ - Works with Audi GT3 Evo II
