@@ -10,5 +10,9 @@ Overrides the Racelogic with Alerts for:
 ## Preview
 ![Preview](https://i.imgur.com/ZnrnXmn.png)
 
+## Required
  - Camera Shake must be turned off!
- - Works with Audi GT3 Evo II
+ - Works only with Audi GT3 Evo II
+
+## Settings
+In SAMMI Button 'Racelogic' you're able to change the Flash Duration/Intensity/Amount for every Alert
