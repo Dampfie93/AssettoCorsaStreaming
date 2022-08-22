@@ -1,0 +1,49 @@
+{
+  "balance": 0.5,
+  "deinterlace_field_order": 0,
+  "deinterlace_mode": 0,
+  "enabled": true,
+  "flags": 0,
+  "hotkeys": {
+    "ObsBrowser.Refresh": [
+      
+    ],
+    "libobs.mute": [
+      
+    ],
+    "libobs.push-to-mute": [
+      
+    ],
+    "libobs.push-to-talk": [
+      
+    ],
+    "libobs.unmute": [
+      
+    ]
+  },
+  "id": "browser_source",
+  "mixers": 255,
+  "monitoring_type": 0,
+  "muted": false,
+  "name": "LFM Playercard",
+  "prev_ver": 453115908,
+  "private_settings": {
+    
+  },
+  "push-to-mute": false,
+  "push-to-mute-delay": 0,
+  "push-to-talk": false,
+  "push-to-talk-delay": 0,
+  "settings": {
+    "css": "body {\n\tbackground-color: rgba(0, 0, 0, 0);\n\tmargin: 0px auto;\n\toverflow: hidden; }\n.avatar {\n\tdisplay:none; }\n.licenseWidgetWrapper:before {\n\tbackground:none; }\n.logo {\n\tright:0px;\n\ttop:100px; }\n.logo img, .logo {\n\twidth: 330px !important; }\n.name {\n\tleft:-30px;\n\t/*top: 150px;*/ }\n.rating {\n\tleft:-30px;\n\t/*top: 175px;*/ }\n.platenice, .licensetext {\n\tleft:20px; }\n.srnice, .srtext {\n\tleft:220px;}",
+    "height": 300,
+    "is_local_file": false,
+    "restart_when_active": true,
+    "shutdown": true,
+    "url": "https://api.lowfuelmotorsport.de/lfmlicense/3138",
+    "width": 600
+  },
+  "sync": 0,
+  "versioned_id": "browser_source",
+  "volume": 1.0
+}
