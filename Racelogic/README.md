@@ -1,4 +1,4 @@
-#Racelogic
+# Racelogic
 Overrides the Racelogic with Alerts for:
  - Follow
  - Sub
@@ -7,7 +7,7 @@ Overrides the Racelogic with Alerts for:
  - Raid
  - Host
 
-##Preview
+## Preview
 ![Preview](https://i.imgur.com/ZnrnXmn.png)
 
 Camera Shake must be turned off!
