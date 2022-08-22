@@ -5,21 +5,11 @@
   "enabled": true,
   "flags": 0,
   "hotkeys": {
-    "ObsBrowser.Refresh": [
-      
-    ],
-    "libobs.mute": [
-      
-    ],
-    "libobs.push-to-mute": [
-      
-    ],
-    "libobs.push-to-talk": [
-      
-    ],
-    "libobs.unmute": [
-      
-    ]
+    "ObsBrowser.Refresh": [ ],
+    "libobs.mute": [ ],
+    "libobs.push-to-mute": [ ],
+    "libobs.push-to-talk": [ ],
+    "libobs.unmute": [ ]
   },
   "id": "browser_source",
   "mixers": 255,
